@@ -1,7 +1,7 @@
 # football-bpj1
 ## 協同產品設計實習 b 班統整專案1
 
-倉儲: https://github.com/mdecd2023/football-bpj1
+倉儲: https://github.com/nfu40723217/football-bpj1
 
 網站: https://mdecd2023.github.io/football-bpj1
 
